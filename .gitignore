@@ -1,0 +1,16 @@
+# virtual env
+venv/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# vscode
+.vscode/
+
+# env secrets
+.env
+
+# logs
+*.log
